@@ -1,10 +1,5 @@
 /* Portfolio stylesheet */
 
- p {
-  font-family: Arial;
-  color: blue;
-  font-size: 28px;
-}
 
 h1{
   font-family: Arial, serif;
@@ -23,11 +18,7 @@ img{
   border-radius: 30%;
   border: 2px black;
 }
-nav{
-  font-family: Arial, serif;
-  text-align: center;
-  font-size: 28px
-}
-.text{
+
+div{
   text-align: center;
 }
