@@ -29,11 +29,6 @@ nav, a {
   text-align: center;
 }
 a {color: black}
-a:link { }
-a:visited { }
-a:hover { }
-a:focus { }
-a:active { }
 
 body{
   background-color:  #ddd4cc ;
