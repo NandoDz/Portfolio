@@ -1,13 +1,17 @@
 /* Portfolio stylesheet */
-
-h1, header{
+header{
   height:auto;
   background:  #cec3a2
-  padding-bottom: 25px;
+}
+h1{
   font-family: Arial, serif;
   font-size: 40px;
   color: black;
   text-align: center;
+}
+a{
+  font-size: 25px;
+  font-family: Arial, serif;
 }
 
 body{
@@ -21,6 +25,9 @@ img{
   margin-right: auto;
   border-radius: 50%;
   border: 2px solid black;
+}
+ul{
+  text-align: left;
 }
 
 /* the "top" class handles most of the text and a list */
