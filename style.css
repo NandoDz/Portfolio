@@ -5,16 +5,35 @@ header{
   text-align: center;
 }
 h1{
+  padding: 20px
   font-family: Arial, serif;
   font-size: 40px;
   color: black;
   text-align: center;
 }
+h2{
+  font-family: Arial, serif;
+  font-size: 30px;
+  color: black;
+  text-align: center;
+}
+h3{
+  font-family: Arial, serif;
+  font-size: 20px;
+  color: black;
+  text-align: center;
+}
 nav, a {
-  font-size: 10px;
+  font-size: 18px;
   font-family: Arial, serif;
   text-align: center;
 }
+a {color: black}
+a:link { }
+a:visited { }
+a:hover { }
+a:focus { }
+a:active { }
 
 body{
   background-color:  #ddd4cc ;
@@ -32,12 +51,12 @@ ul{
   display: inline-block;
   text-align: left;
 }
+footer{
+  text-align: center;
+}
 
 /* the "top" class handles most of the text and a list */
 .top{
   text-align: center;
-}
-
-.bottom{
-  text-align: center;
+  font-size: 20px;
 }
