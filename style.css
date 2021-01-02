@@ -13,11 +13,11 @@ h1{
 }
 
 body{
-  background-color:  #d5c3b4 ;
+  background-color:  #ddd4cc ;
 }
 img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border-radius: 30;
+  border-radius: 30%;
 }
