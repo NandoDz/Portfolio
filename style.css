@@ -1,5 +1,13 @@
+/* Portfolio stylesheet */
+
  p {
-  font-family: 'Shadows Into Light', cursive;
-  color: DarkRed;
-  font-size: 24px;
+  font-family: Arial;
+  color: blue;
+  font-size: 28px;
+}
+
+h1{
+  font-size: 40px;
+  color: green;
+  text-align: center;
 }
