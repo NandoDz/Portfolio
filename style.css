@@ -10,7 +10,7 @@ h1{
   color: black;
   text-align: center;
 }
-a{
+nav, a {
   font-size: 10px;
   font-family: Arial, serif;
   text-align: center;
