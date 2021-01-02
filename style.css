@@ -10,8 +10,9 @@ h1{
   text-align: center;
 }
 a{
-  font-size: 25px;
+  font-size: 15px;
   font-family: Arial, serif;
+  text-align: center;
 }
 
 body{
@@ -27,9 +28,8 @@ img{
   border: 2px solid black;
 }
 ul{
+  display: inline-block;
   text-align: left;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 /* the "top" class handles most of the text and a list */
