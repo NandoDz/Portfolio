@@ -57,14 +57,17 @@ ol{
 footer{
   text-align: center;
 }
-
-/* the "top","bottom" class are relic div containers i used  
+article{
+  text-align: center;
+  font-size: 20px;
+}
+section{
+  text-align: center;
+  font-size: 20px;
+}
+/* the "top","bottom" class are relic div containers i used
 .top, .bottom{
   text-align: center;
   font-size: 20px;
 }
 istead of using div classes i replaced them with article and section container*/
-article{
-  text-align: center;
-  font-size: 20px;
-}
