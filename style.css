@@ -58,11 +58,12 @@ footer{
   text-align: center;
 }
 
-/* the "top" class handles most of the text and a list */
+/* the "top","bottom" class are relic div containers i used  
 .top, .bottom{
   text-align: center;
   font-size: 20px;
 }
+istead of using div classes i replaced them with article and section container*/
 article{
   text-align: center;
   font-size: 20px;
